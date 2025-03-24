@@ -3,7 +3,7 @@
 :root{
     --color-fondo: #0D1B2A;
     --color-texto: #E0E1DD;
-    --color-destacado: #28d811;
+    --color-destacado: #D81159;
     --color-hover: #2978A0;
     --color-hover-destacado: #FCFCFC;
     --color-sombra: #000000;
@@ -156,7 +156,7 @@ body{
         width: auto;
     }
     .imagen_principal{
-        width: 65%;
-        height: 65%;
+        width: 100%;
+        
     }
 }
