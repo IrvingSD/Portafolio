@@ -143,12 +143,12 @@ body{
 
 @media (max-width: 1200px){
     .header{
-        padding: 6% 6% 8% 6%;
+        padding: 6% 2% 8% 2%;
     }
     .header_menu{
         justify-content: center;
         flex-wrap: wrap;
-        gap: 50px;
+        gap: 30px;
     }
 
     .presentacion{
