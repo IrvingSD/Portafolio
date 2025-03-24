@@ -143,7 +143,7 @@ body{
 
 @media (max-width: 1200px){
     .header{
-        padding: 6% 2% 8% 2%;
+        padding: 10% 2% 8% 2%;
     }
     .header_menu{
         justify-content: center;
